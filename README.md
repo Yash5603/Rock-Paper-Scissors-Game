@@ -11,3 +11,8 @@ This is an interactive Rock Paper Scissors game developed using HTML, CSS, and J
 <li>🔄 Play continuously without restarting the game</li>
 <li>⚡ Instant result calculation using JavaScript</li>
 <li>🎨 Responsive and user-friendly interface designed with CSS</li>
+
+
+# 📸 Screenshots
+
+<i>Main game board with player moves<i>
